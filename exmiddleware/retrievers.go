@@ -1,8 +1,8 @@
 package exmiddleware
 
 import (
-	"github.com/Necroforger/dgrouter/exrouter"
-	"github.com/bwmarrin/discordgo"
+	"github.com/auttaja/dgrouter/exrouter"
+	"github.com/auttaja/discordgo"
 )
 
 // Err retrieves the error variable from the context

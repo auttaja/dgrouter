@@ -6,7 +6,7 @@ import (
 
 	"github.com/andersfylling/disgord"
 
-	"github.com/Necroforger/dgrouter"
+	"github.com/auttaja/dgrouter"
 )
 
 // Context represents a command context

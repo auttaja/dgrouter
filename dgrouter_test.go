@@ -4,7 +4,7 @@ import (
 	"log"
 	"testing"
 
-	"github.com/Necroforger/dgrouter"
+	"github.com/auttaja/dgrouter"
 )
 
 func TestRouter(t *testing.T) {

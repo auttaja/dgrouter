@@ -3,8 +3,8 @@ package exrouter
 import (
 	"strings"
 
-	"github.com/Necroforger/dgrouter"
-	"github.com/bwmarrin/discordgo"
+	"github.com/auttaja/dgrouter"
+	"github.com/auttaja/discordgo"
 )
 
 // HandlerFunc ...

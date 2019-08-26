@@ -4,9 +4,9 @@ import (
 	"log"
 	"testing"
 
-	"github.com/Necroforger/dgrouter"
-	"github.com/Necroforger/dgrouter/exrouter"
-	"github.com/bwmarrin/discordgo"
+	"github.com/auttaja/dgrouter"
+	"github.com/auttaja/dgrouter/exrouter"
+	"github.com/auttaja/discordgo"
 )
 
 func TestRouter(t *testing.T) {
